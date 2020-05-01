@@ -12,16 +12,16 @@ Covid-19 in Singapore data analysis (Data updated to 28/04/2020)
 
 ## Visuals
 <p align = 'center' >
-<img width= "400" height = "335" align="center" src="https://i.imgur.com/BwWQfBv.png" alt="Nationality distribution">
+<img width= "400" height = "335" align="center" src="https://i.imgur.com/BwWQfBv.png" alt="Nationalities distribution">
 <br>
 Distribution of cases by nationality
 </p>
 <br>
 
 <p align = 'center' >
-<img width= "600" height = "235" align="center" src="https://i.imgur.com/4hIPLDV.png" alt="Cluster heatmap">
+<img width= "600" height = "235" align="center" src="https://i.imgur.com/4hIPLDV.png" alt="Clusters heatmap">
 <br>
-Cluster heatmap 
+Clusters heatmap 
 </p>
 
 ## Libraries:
